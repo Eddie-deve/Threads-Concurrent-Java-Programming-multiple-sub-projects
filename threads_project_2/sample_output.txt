@@ -1,0 +1,180 @@
+[Endymion-4]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-9]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-2]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-3]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-1]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-7]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-8]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-6]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-0]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-5]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-8]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-9]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-0]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-2]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-4]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-6]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-7]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-3]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-1]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-5]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-1]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-2]: PropulsionController is running, consuming 15 units of power.
+[Endymion-6]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-0]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-1]: PropulsionController is running, consuming 15 units of power.
+[Endymion-9]: PropulsionController is running, consuming 15 units of power.
+[Endymion-9]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-5]: PropulsionController is running, consuming 15 units of power.
+[Endymion-7]: PropulsionController is running, consuming 15 units of power.
+[Endymion-8]: PropulsionController is running, consuming 15 units of power.
+[Endymion-3]: PropulsionController is running, consuming 15 units of power.
+[Endymion-5]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-4]: PropulsionController is running, consuming 15 units of power.
+[Endymion-7]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-3]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-2]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-0]: PropulsionController is running, consuming 15 units of power.
+[Endymion-6]: PropulsionController is running, consuming 15 units of power.
+[Endymion-8]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-4]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-3]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-5]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-1]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-0]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-7]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-2]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-6]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-4]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-8]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-9]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-5]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-5]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-1]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-2]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-0]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-9]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-8]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-8]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-3]: PropulsionController is running, consuming 15 units of power.
+[Endymion-6]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-3]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-8]: PropulsionController is running, consuming 15 units of power.
+[Endymion-6]: PropulsionController is running, consuming 15 units of power.
+[Endymion-1]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-9]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-4]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-4]: PropulsionController is running, consuming 15 units of power.
+[Endymion-7]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-4]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-3]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-9]: PropulsionController is running, consuming 15 units of power.
+[Endymion-1]: PropulsionController is running, consuming 15 units of power.
+[Endymion-6]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-7]: PropulsionController is running, consuming 15 units of power.
+[Endymion-7]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-2]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-5]: PropulsionController is running, consuming 15 units of power.
+[Endymion-0]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-2]: PropulsionController is running, consuming 15 units of power.
+[Endymion-0]: PropulsionController is running, consuming 15 units of power.
+[Endymion-7]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-1]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-6]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-0]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-5]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-9]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-2]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-3]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-4]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-8]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-2]: Not enough power for CommunicationHandler. Switching off...
+[Endymion-2]: Not enough power for PropulsionController. Switching off...
+[Endymion-9]: Not enough power for PropulsionController. Switching off...
+[Endymion-5]: Not enough power for CommunicationHandler. Switching off...
+[Endymion-5]: Not enough power for PropulsionController. Switching off...
+[Endymion-0]: Not enough power for PropulsionController. Switching off...
+[Endymion-8]: Not enough power for PropulsionController. Switching off...
+[Endymion-0]: Not enough power for CommunicationHandler. Switching off...
+[Endymion-6]: Not enough power for CommunicationHandler. Switching off...
+[Endymion-7]: Not enough power for PropulsionController. Switching off...
+[Endymion-4]: Not enough power for CommunicationHandler. Switching off...
+[Endymion-1]: Not enough power for PropulsionController. Switching off...
+[Endymion-8]: Not enough power for CommunicationHandler. Switching off...
+[Endymion-4]: Not enough power for PropulsionController. Switching off...
+[Endymion-1]: Not enough power for CommunicationHandler. Switching off...
+[Endymion-6]: Not enough power for PropulsionController. Switching off...
+[Endymion-9]: Not enough power for CommunicationHandler. Switching off...
+[Endymion-7]: Not enough power for CommunicationHandler. Switching off...
+[Endymion-3]: Not enough power for PropulsionController. Switching off...
+[Endymion-3]: Not enough power for CommunicationHandler. Switching off...
+[Endymion-1]: PropulsionController is running, consuming 15 units of power.
+[Endymion-4]: PropulsionController is running, consuming 15 units of power.
+[Endymion-7]: PropulsionController is running, consuming 15 units of power.
+[Endymion-9]: PropulsionController is running, consuming 15 units of power.
+[Endymion-1]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-1]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-1]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-3]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-3]: PropulsionController is running, consuming 15 units of power.
+[Endymion-5]: PropulsionController is running, consuming 15 units of power.
+[Endymion-6]: PropulsionController is running, consuming 15 units of power.
+[Endymion-9]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-0]: PropulsionController is running, consuming 15 units of power.
+[Endymion-4]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-2]: PropulsionController is running, consuming 15 units of power.
+[Endymion-6]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-5]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-3]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-8]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-2]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-9]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-8]: PropulsionController is running, consuming 15 units of power.
+[Endymion-6]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-7]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-6]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-8]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-4]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-2]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-0]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-5]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-0]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-7]: CommunicationHandler is running, consuming 12 units of power.
+[Endymion-1]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-3]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-9]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-3]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-9]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-5]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-2]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-7]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-6]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-8]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-4]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-0]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-5]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-2]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-7]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-8]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-4]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-0]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-8]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-9]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-1]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-6]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-5]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-2]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-0]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-4]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-7]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-3]: OxygenGenerator is running, consuming 8 units of power.
+[Endymion-2]: Re-running oxygen checks...
+[Endymion-9]: Re-running oxygen checks...
+[Endymion-7]: Re-running oxygen checks...
+[Endymion-5]: Re-running oxygen checks...
+[Endymion-2]: the crew has died (OxygenGenerator failed due to insufficient power)!
+[Endymion-7]: the crew has died (OxygenGenerator failed due to insufficient power)!
+[Endymion-5]: the crew has died (OxygenGenerator failed due to insufficient power)!
+[Endymion-9]: the crew has died (OxygenGenerator failed due to insufficient power)!
+Count of survivors: 6
+Count of dead: 4
